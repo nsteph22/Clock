@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/clock_Nahjah_Stephen.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
